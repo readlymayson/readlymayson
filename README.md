@@ -1,65 +1,34 @@
-# Egor Frolov
+# Egor Frolov — Backend, Integrations & Automation
 
-### Technical production for digital agencies
+Technical specialist focused on business process automation, CRM integrations, backend systems, and AI-powered workflows.
 
-I build and maintain backend systems, integrations and automation for digital agencies and IT integrators.
+I help digital agencies and businesses implement technical solutions, connect services through APIs, and automate repetitive operations.
 
-**Python · API · Telegram · Bitrix24 · Automation · AI/LLM · Legacy**
+## Focus Areas
 
-I work as a technical subcontractor / white-label developer: the agency keeps the client relationship, while I handle implementation.
+- **Business Automation:** CRM workflows, document generation, data processing, and background jobs.
+- **Backend Development:** Python, PHP, FastAPI, REST APIs, asynchronous processing, and databases.
+- **CRM Integrations:** Bitrix24, amoCRM, webhooks, event handlers, and API integrations.
+- **AI & LLM Integration:** Model routing, AI-powered workflows, data enrichment, and automation.
+- **Reliability:** Idempotency, retry mechanisms, error handling, and automated testing.
 
-## What I take
+## Selected Projects
 
-* Python backend and API integrations
-* Telegram bots and automation
-* Bitrix24 integrations and CRM automation
-* Data processing and web automation
-* AI / LLM integrations and agent systems
-* Legacy systems, fixes and maintenance
-* Custom scripts and internal automation
+- **[Project Handler](https://github.com/readlymayson/project-handler)** — Business process automation and document generation for Bitrix24.
+- **[BX24 Integrations](https://github.com/readlymayson/bx24-integrations)** — Reusable CRM integration components and automation handlers.
+- **[SaaS Niche Finder](https://github.com/readlymayson/saas-niche-finder)** — Backend platform for SaaS niche research, data processing, and scoring.
+- **[AI Core Domain](https://github.com/readlymayson/ai-core-domain)** — Domain logic and architectural components for an automation platform.
+- **[RouterAI Models](https://github.com/readlymayson/routerai-models)** — Model catalog processing and configuration automation.
 
-## How I work
+## How I Work
 
-* White-label / subcontracting
-* NDA-friendly
-* Implementation-focused
-* Agency keeps the client relationship
-* I can work without direct client communication
-* Clear technical specification → implementation → delivery
-* Existing systems can be investigated before implementation
+- Focus on implementation and technical delivery.
+- Prefer clear requirements, documented interfaces, and maintainable solutions.
+- Design for safe retries, predictable behavior, and reliable integrations.
 
-## Selected projects
+## Links
 
-### Bitrix24 / CRM
+- **Website:** https://efrolov-dev.ru
+- **GitHub:** https://github.com/readlymayson
 
-**[project-handler](https://github.com/readlymayson/project-handler)**
-Automated monthly billing workflow in Bitrix24: time tracking, role-based rates, deal creation, documents, notifications and duplicate protection.
-
-**[bx24-integrations](https://github.com/readlymayson/bx24-integrations)**
-Collection of Bitrix24 REST API integrations and automation scripts for cloud and on-premise deployments.
-
-### Python / Telegram / Automation
-
-**[telegram-analysis-bot](https://github.com/readlymayson/telegram-analysis-bot)**
-Telegram bot with analysis workflows, OCR, referrals, access control and payment-related logic.
-
-**[site-downloader](https://github.com/readlymayson/site-downloader)**
-Website documentation downloader designed for LLM/RAG workflows.
-
-### AI / Engineering
-
-**[ai-core-domain](https://github.com/readlymayson/ai-core-domain)**
-Domain layer for monitoring and filtering freelance orders from multiple sources with LLM-based relevance analysis.
-
-**[arch-code](https://github.com/readlymayson/arch-code)**
-AI-assisted software architecture workflow using agents to generate, test and improve project implementations.
-
-## Stack
-
-`Python` `FastAPI` `asyncio` `REST API` `Telegram` `aiogram` `Bitrix24` `Redis` `SQLite` `Docker` `Playwright` `LLM` `LangGraph`
-
-## Contact
-
-For agency / integration work, contact me through the links on my website.
-
-**GitHub:** [github.com/readlymayson](https://github.com/readlymayson)
+For technical implementation and integration projects, see my website for details.
